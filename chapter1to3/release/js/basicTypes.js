@@ -1,0 +1,10 @@
+var word = "true";
+var favSingers = ["Avril", "Halsey", "Justin", "Selena"];
+var x = "gafd";
+var y = ["asfds", "fsafs"];
+;
+var female = 1 /* Female */;
+var male = 0 /* Male */;
+var none = null;
+console.log("Hello world!");
+console.log("Visual Studio code runs like a breeze");
